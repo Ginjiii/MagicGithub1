@@ -22,7 +22,6 @@ public class UserRepository {
 
     public void generateRandomUser() {
         // TODO: A modifier
-        User.random();
         apiService.generateRandomUser();
     }
 
